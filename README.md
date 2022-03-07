@@ -9,3 +9,6 @@ A program should accept a large XML and then convert a part of it to JSON.
 
 ## Whiteboard
 General place to be used as a scratch pad to try and test code
+
+## ESPN CricInfo Get Latest Score
+To get the latest score of a match that you desire. 
